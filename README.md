@@ -2,7 +2,7 @@
 
 # Echoes of the Observer
 
-A story mod for *Outer Wilds*, created by Known-Mouse for the Summer 2026 Outer Wilds Mod Jam.
+A story mod for Outer Wilds, created by Known-Mouse. Not affiliated with the Summer 2026 Outer Wilds Mod Jam.
 
 14.3 Billion years into a new universe, you are still a little blue fish living in the mines.
 
