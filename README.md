@@ -32,6 +32,7 @@ For a manual installation, extract the release archive into the OWML `Mods` dire
 
 - English
 - Simplified Chinese
+- Russian
 
 The mod automatically uses the language selected in the game.
 
